@@ -1,48 +1,50 @@
-# Andrea Takamiya
+# David Ebinger
 
-1. 123 Manoa Drive Honolulu, HI 96822
-1. (808) 555-5555
-1. [https://github.com/andimiya](https://github.com/andimiya)
-1. [linkedin-url](linkedin-url)
+1. 91-1179 Kaiau Avenue Kapolei, HI 96707
+1. (808) 428-1661
+1. [Github](https://github.com/Debinger)
+1. [LinkedIn](https://www.linkedin.com/in/david-ebinger-85887313a/)
 
 ## Objective
-I am a web developer...(what profession are you seeking?)
+Web developer with experience in front and back end developments. This includes all stages of the development cycle to create web applications.
 
 ## Development Experience
 
-### Final Project Name 1
-#### [https://github.com/username/project](https://github.com/username/project)
-##### March 2017
-- Describe the project.
-- What did you contribute?
-- What were the outcomes (if any) of this project?
+### Hele
+#### [Github - Hele.io](https://github.com/debinger/CEGS)
+##### May 2017
+- Web-based application for creating a personal travel itinerary that includes flight, hotel, and car rental searches by the most affordable price.
+- I personally contributed with development of the backend development (including authentification, user routes), and web application deployment.
+- [Hele.io](https://www.hele.io)
 
-### Hackathon Project Name 2
-#### [http://url.com](http://url.com)
-##### March 2017
-- Describe the project.
-- What did you contribute?
-- What were the outcomes (if any) of this project?
+### W.A.A.V.E? (Why Are Ads Virtually Everywhere?)
+#### [Github - W.A.A.V.E](https://github.com/DEbinger/adware-waves)
+##### Janruary 2017
+- Create a game that loads pop ups in intervals/set timeouts to your workstation. Once the ad has fully resolved it will crash your work station and plug it's product for good measure!
+- Implementation of Phaser functionality for the game.
+- A working game in a short hackathon period.
 
 ## Professional Experience
 
-### Online Experience Manager
-#### Hawaiian Airlines Honolulu
-##### HI 2014 – Present  
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
+### Configuration Architect
+#### Hawaii Medical Services Association
+##### HI 2004 – Present
+- Analyzes benefit plans, products, medical/payment policies, provider contracts, reimbursement
+methods, fees or medical coding
+- Researches current state of QNXT & CES configuration to meet requirements of projects and larger
+BAU assignments
+- Communicates effectively with various internal customers, BCIS Management/Leads, and Business
+Analysts
+- Ensure requests are completed within the scope of requirements
+- Recommend changes to requirements based on research to improve efficiency and increase owner
+satisfaction
+- Designs, develops, tests and implements QNXT configuration
+- Conducts unit testing to ensure application meets specifications
 
 ## Education
 ### DevLeague
-#### Explanation of what this is
-##### Jan - June 2017
-
-### Bachelor of Arts in Business Administration 
-#### Concentration in Marketing and International Business 
-#### Cumulative GPA: 3.74
-##### University of Oregon, 2005 – 2007
-##### University of Hawaii at Manoa , 2008 – 2009 
+#### Full Stack Development Bootcamp
+##### December 2016 - May 2017
 
 ## Technical Skills
 
@@ -53,11 +55,13 @@ I am a web developer...(what profession are you seeking?)
 - SQL
 
 ### Web Skills
+- Backend Server Routes
+- User Authentification
 - Responsive/Mobile First Web Development
 - Test/Behavior Driven Development
-- Relational - and Non-Relational Database Modeling 
-- User Authentication
+- Relational - and Non-Relational Database Modeling
 - API Integration
+- Web Application Deployment
 
 ### Frontend Proficiencies
 - HTML5
@@ -73,13 +77,11 @@ I am a web developer...(what profession are you seeking?)
 ### Server-Side Proficiencies
 - NodeJS
 - Express
-- Jade
-- Sequelize/Mongoose ORM
-- GraphQl
+- Sequelize
 
 ### Database Proficiencies
-- PostgreSQL 
-- MongoDB
+- PostgreSQL
+- Redis
 
 ### Workflow/Testing Utilities
 - Git
@@ -89,13 +91,4 @@ I am a web developer...(what profession are you seeking?)
 - SuperTest
 
 ### Business Development
-- Sitecore CMS ( Sitecore Certified)
-- Sitecore OMS (Sitecore Certified)
-- Sitecore DMS (Sitecore Certified)
-- Adobe Sitecatalyst (Omniture)
-- Adobe Test & Target
-- Farelogix Merchandising System Microsoft Sharepoint CMS
 - Web layouts and wire-framing
-- Adobe Photoshop CS6
-- Adobe Illustrator CS6
-- Google AdWords
