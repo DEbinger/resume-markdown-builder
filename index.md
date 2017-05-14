@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
+# David Ebinger
 
-You can use the [editor on GitHub](https://github.com/DEbinger/resume-markdown-builder/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- 91-1179 Kaiau Avenue Kapolei, HI 96707
+- (808) 428-1661
+- [Github](https://github.com/Debinger)
+- [LinkedIn](https://www.linkedin.com/in/david-ebinger-85887313a/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Objective
+Web developer with experience in front and back end developments. This includes all stages of the development cycle to create web applications.
 
-### Markdown
+## Development Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Hele
+#### [Github - Hele.io](https://github.com/debinger/CEGS)
+##### May 2017
+- Web-based application for creating a personal travel itinerary that includes flight, hotel, and car rental searches by the most affordable price.
+- I personally contributed with development of the backend development (including authentification, user routes), and web application deployment.
+- [Hele.io](https://www.hele.io)
 
-```markdown
-Syntax highlighted code block
+### W.A.A.V.E? (Why Are Ads Virtually Everywhere?)
+#### [Github - W.A.A.V.E](https://github.com/DEbinger/adware-waves)
+##### Janruary 2017
+- Create a game that loads pop ups in intervals/set timeouts to your workstation. Once the ad has fully resolved it will crash your work station and plug it's product for good measure!
+- Implementation of Phaser functionality for the game.
+- A working game in a short hackathon period.
 
-# Header 1
-## Header 2
-### Header 3
+## Professional Experience
 
-- Bulleted
-- List
+### Configuration Architect
+#### Hawaii Medical Services Association
+##### HI 2004 – Present
+- Analyzes benefit plans, products, medical/payment policies, provider contracts, reimbursement
+methods, fees or medical coding
+- Researches current state of QNXT & CES configuration to meet requirements of projects and larger
+BAU assignments
+- Communicates effectively with various internal customers, BCIS Management/Leads, and Business
+Analysts
+- Ensure requests are completed within the scope of requirements
+- Recommend changes to requirements based on research to improve efficiency and increase owner
+satisfaction
+- Designs, develops, tests and implements QNXT configuration
+- Conducts unit testing to ensure application meets specifications
 
-1. Numbered
-2. List
+## Education
+### DevLeague
+#### Full Stack Development Bootcamp
+##### December 2016 - May 2017
 
-**Bold** and _Italic_ and `Code` text
+## Technical Skills
 
-[Link](url) and ![Image](src)
-```
+### Languages
+- JavaScript
+- HTML5
+- CSS3
+- SQL
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Web Skills
+- Backend Server Routes
+- User Authentification
+- Responsive/Mobile First Web Development
+- Test/Behavior Driven Development
+- Relational - and Non-Relational Database Modeling
+- API Integration
+- Web Application Deployment
 
-### Jekyll Themes
+### Frontend Proficiencies
+- HTML5
+- CSS3
+- JavaScript
+- ES6
+- React
+- Redux
+- Angular
+- D3
+- SASS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DEbinger/resume-markdown-builder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Server-Side Proficiencies
+- NodeJS
+- Express
+- Sequelize
 
-### Support or Contact
+### Database Proficiencies
+- PostgreSQL
+- Redis
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Workflow/Testing Utilities
+- Git
+- Gulp
+- Mocha
+- Chai
+- SuperTest
+
+### Business Development
+- Web layouts and wire-framing
